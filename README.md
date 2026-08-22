@@ -534,7 +534,7 @@ I'm continuously improving my knowledge in:
 
 Add your LinkedIn profile here:
 
-**https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/**
+**(https://www.linkedin.com/in/bhumika-mishra2002/)**
 
 ### 📧 Email
 
